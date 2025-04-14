@@ -1,0 +1,1 @@
+START /WAIT cmd /k call  npm install  ^& npm install -g @angular/cli ^& npm install @angular/material ^& npm install @angular/material  ^& cmd /k call ng serve --host 0.0.0.0
